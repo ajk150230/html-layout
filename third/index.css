@@ -1,0 +1,49 @@
+#background{
+    flex-direction: column;
+    background-color: rgb(228, 228, 228);
+    margin: 0 auto;
+}
+#row1{
+    width: vw;
+    height: 100px;
+    background: grey;
+   
+}
+#button{
+    float: left;
+    width:60px;
+    height: 60px;
+    background: white;
+    margin: 18px 30px;
+}
+#row2{
+    width: vw;
+    height: 30%;
+    background:  rgb(228, 228, 228);
+    margin: 100px 100px;
+}
+#text{
+    margin: 3px;
+}
+#footer1{
+    flex:1;
+    width: vw;
+    height: 10%;
+    background-color: yellow;
+}
+#footer2{
+    width: vw;
+    height: 10%;
+    background-color: orange;
+}
+#footer3{
+    width: vw;
+    height: 10%;
+    background-color: orangered;
+}
+#footer4{
+    width: vw;
+    height: 10%;
+    background-color: red;
+    box-sizing: border-box;
+}

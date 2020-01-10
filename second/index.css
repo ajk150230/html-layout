@@ -1,0 +1,56 @@
+#top{
+    width: vw;
+    height: 20%;
+    border-style: solid;
+    border-color: black;
+    margin: 5 auto;
+}
+#circle{
+    float: left; 
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background: purple;
+    margin: 5px;
+}
+#rectangle{
+    float: left;
+    height: 150px;
+    width: 50px;
+    background-color: green;
+    margin: 5px;
+}
+#block{
+    float: left;
+    height: 50px;
+    width: 200px;
+    background-color: blue;
+    margin: 5px;
+}
+#middle{
+    width: vw;
+    height: 30%;
+    border-style: dotted;
+    border-color: black;
+    margin: 5 auto;
+}
+#box{
+    width: 80%;
+    height: 20vh;
+    margin: 10 auto;
+    background: rgb(255, 185, 81);
+    box-shadow: 20px 20px 5px black;
+}
+#bottom{
+    width: 60%;
+    height: 40%;
+    box-shadow: 5px 5px 2px grey;
+    margin: 10 auto;
+}
+#textbox{
+    color: blue;
+    text-align: center;
+    letter-spacing: 5px;
+    line-height: 2;
+    padding: 5rem;
+}
