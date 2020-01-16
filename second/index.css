@@ -4,6 +4,8 @@
     border-style: solid;
     border-color: black;
     margin: 5 auto;
+    display: flex;
+    align-items: flex-end;
 }
 #circle{
     float: left; 
